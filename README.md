@@ -2,6 +2,9 @@
 
 3レーンを自動で進みながら、ゲートで仲間を増やし、コンテナを撃って武器を強化し、ボスを倒すクラウドランナー風シューティング。Rust + [macroquad](https://github.com/not-fl3/macroquad) 製(Windows)。
 
+## ダウンロード
+Windows 用の exe は [Releases](https://github.com/uruurus15/Growth_Gunner/releases/latest) から zip を取得し、展開して `Growth_Gunner.exe` を起動するだけです(インストール不要)。
+
 ## 遊び方
 - 移動: `←` `→` / `A` `D`(押している間だけ)、またはマウスのドラッグ
 - ゲートで人数を増減、コンテナを撃つと攻撃力・連射・貫通・拡散が強化
